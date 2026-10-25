@@ -1,0 +1,21 @@
+
+{
+  "name": "Mi Horario - Ingeniería en Agronomía",
+  "short_name": "Mi Horario",
+  "description": "Horario académico personal de Ingeniería en Agronomía de la UVP.",
+  "lang": "es-MX",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0b0f",
+  "theme_color": "#0b0b0f",
+  "icons": [
+    {
+      "src": "./uvp.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
